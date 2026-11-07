@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is used for automation, data analysis, web development, and artificial intelligence.
+Learning Python is easier when you practice Python every day.
+A program can read a text file, count words, and find common words.
